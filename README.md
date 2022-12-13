@@ -1,1 +1,1 @@
-"# two-react-plugins" 
+# This is the contents of my `plugins` folder inside `wp-content`.
