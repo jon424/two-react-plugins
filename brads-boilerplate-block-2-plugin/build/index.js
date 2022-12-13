@@ -1,0 +1,1 @@
+(()=>{"use strict";wp.blocks.registerBlockType("makeupnamespace/make-up-block-name",{title:"Second Plugin",icon:"welcome-learn-more",category:"common",edit:function(e){},save:function(){return null}})})();
